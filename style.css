@@ -26,3 +26,8 @@
 section {
   padding-top: 5rem;
 }
+
+p .icon {
+  display: flex;
+  justify-content: space-evenly;
+}
